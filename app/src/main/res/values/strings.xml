@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Movies World</string>
+    <string name="connect_btn">View Movies</string>
+    <string name="temp_text">TextView</string>
+    <string name="MovieImageDescription">Movie Image</string>
+    <string name="Release">"Release Date : "</string>
+    <string name="vote">"Vote Average : "</string>
+</resources>
